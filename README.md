@@ -2,6 +2,8 @@
 
 This calculator is made as my first React Js Project.
 
+![Calculator](/Screenshots/calc.png)
+
 You can clone the repository using ```https://github.com/Dudam-Neeraj-Dattu/React-Calculator.git``` 
 
 In the terminal, give a command ```npm start```
